@@ -5,12 +5,15 @@ The trained model files for this project are hosted on Google Drive due to GitHu
 ## Download Links
 
 - **Transformer Model:**  
-  Paste your Google Drive link here
+  https://drive.google.com/file/d/1tki7DV46wHRFG8eMrW7aWRz7WcbFr_4S/view?usp=drivesdk
 
-- **Tokenizer Files (if applicable):**  
-  English tokenzier file link
-      https://drive.google.com/file/d/1KWAxlClP1OJQNG0M96mqnYsMkZBLEpbM/view?usp=drivesdk
-  Hindi tokenizer file link
+- **Tokenizer Files (if applicable):**
+  
+     English tokenzier file link
+    https://drive.google.com/file/d/1KWAxlClP1OJQNG0M96mqnYsMkZBLEpbM/view?usp=drivesdk
+  
+     Hindi tokenizer file link
+      https://drive.google.com/file/d/1SLieUz2xW_WvU3l4IPTNRdW7zfryXFY1/view?usp=drivesdk
       
 
 ## Note
