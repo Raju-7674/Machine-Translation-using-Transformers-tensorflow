@@ -4,7 +4,9 @@ The dataset used in this project is hosted externally due to its size. It contai
 
 ## Dataset Link
 
-🔗 Paste your Google Drive or dataset source link here.
+https://drive.google.com/file/d/1mSHfcKABnUWStgdsq6Z74gq7cw9mt6Ev/view?usp=drivesdk
+
+https://drive.google.com/file/d/1uwX-Ue81hrynGVD5aVXk_veiqDRKL42J/view?usp=drivesdk
 
 ## Dataset Contents
 
